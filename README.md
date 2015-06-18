@@ -1,0 +1,2 @@
+# h5nofify
+一个兼容谷歌老版本和html5桌面通知的jquery插件
